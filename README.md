@@ -1,19 +1,20 @@
 <!-- Entries between SOLUTIONS and RESULTS tags are auto-generated -->
 
-[![AoC](https://badgen.net/badge/AoC/2024/blue)](https://adventofcode.com/2024)
+[![AoC](https://badgen.net/badge/AdventOfCode/2024/blue)](https://adventofcode.com/2024)
 [![Node](https://badgen.net/badge/Node/v20.18.0+/blue)](https://nodejs.org/en/download/)
 ![Language](https://badgen.net/badge/Language/TypeScript/blue)
-[![Template](https://badgen.net/badge/Template/aocrunner/blue)](https://github.com/caderek/aocrunner)
+[![Template](https://badgen.net/badge/Template/aocrunner/blue)](https://github.com/caderek/aocrunner) 
 
-# 🎄 Advent of Code 2024 🎄
+# ⭐🎄 Advent of Code 2024 🎄⭐
+
 
 ## Solutions
 
 <!--SOLUTIONS-->
 
-![Day](https://badgen.net/badge/01/%E2%98%86%E2%98%86/gray)
-![Day](https://badgen.net/badge/02/%E2%98%86%E2%98%86/gray)
-![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)
+![Day](https://badgen.net/badge/01/%E2%98%86%E2%98%86/)
+![Day](https://badgen.net/badge/02/%E2%98%86%E2%98%86/)
+![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/)
 ![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
@@ -251,4 +252,4 @@ Total time: 0ms
 
 ---
 
-✨🎄🎁🎄🎅🎄🎁🎄✨
+❄️⭐🎄🎁🎄🎅🎄🎁🎄⭐❄️
